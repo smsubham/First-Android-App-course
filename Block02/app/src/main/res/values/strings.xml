@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Block02</string>
+    <string name="textview_prompt">Pick an animal:</string>
+    <string name="pick">Pick an animal</string>
+    <string name="Dog">Dog</string>
+    <string name="cat">cat</string>
+    <string name="Mouse">Mouse</string>
+    <string-array name="animalsnameArray">
+        <item>@string/Dog</item>
+        <item> @string/cat</item>
+        <item>@string/Mouse</item>
+    </string-array>
+</resources>

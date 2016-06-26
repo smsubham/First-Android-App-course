@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block02</string>
+    <string name="textview_prompt">Text should be In hindi</string>
+    <string name="pick">Text in hindi</string>
+    <string name="Dog">Dog in hindi</string>
+    <string name="cat">Cat in hindi</string>
+    <string name="Mouse">Mouse in hindi</string>
+</resources>
